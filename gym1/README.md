@@ -1,0 +1,2 @@
+damo datoteko gym1 v xampp/htdoocs potem zaženemo xampp(appache,MySQL)naložimo podatkovno bazo(loginsystem),
+in odpremo spletno stran http://localhost/gym1 in se prijavimo kot administrator(admin,pass).
